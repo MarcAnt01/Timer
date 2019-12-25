@@ -1,0 +1,1 @@
+C:\Users\fedel\source\repos\Timer\Timer\Timer.csproj;x86
